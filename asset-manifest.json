@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/TravelsIn-website/static/css/main.ade80fe1.chunk.css",
+    "main.js": "/TravelsIn-website/static/js/main.6f29814a.chunk.js",
+    "main.js.map": "/TravelsIn-website/static/js/main.6f29814a.chunk.js.map",
+    "runtime-main.js": "/TravelsIn-website/static/js/runtime-main.bc089cc6.js",
+    "runtime-main.js.map": "/TravelsIn-website/static/js/runtime-main.bc089cc6.js.map",
+    "static/js/2.a09a2631.chunk.js": "/TravelsIn-website/static/js/2.a09a2631.chunk.js",
+    "static/js/2.a09a2631.chunk.js.map": "/TravelsIn-website/static/js/2.a09a2631.chunk.js.map",
+    "index.html": "/TravelsIn-website/index.html",
+    "static/css/main.ade80fe1.chunk.css.map": "/TravelsIn-website/static/css/main.ade80fe1.chunk.css.map",
+    "static/js/2.a09a2631.chunk.js.LICENSE.txt": "/TravelsIn-website/static/js/2.a09a2631.chunk.js.LICENSE.txt",
+    "static/media/Destination1.b43b40eb.png": "/TravelsIn-website/static/media/Destination1.b43b40eb.png",
+    "static/media/Destination2.64eec980.png": "/TravelsIn-website/static/media/Destination2.64eec980.png",
+    "static/media/Destination3.b4028caa.png": "/TravelsIn-website/static/media/Destination3.b4028caa.png",
+    "static/media/Destination4.c19a433b.png": "/TravelsIn-website/static/media/Destination4.c19a433b.png",
+    "static/media/Destination5.8db742a0.png": "/TravelsIn-website/static/media/Destination5.8db742a0.png",
+    "static/media/Destination6.b43b40eb.png": "/TravelsIn-website/static/media/Destination6.b43b40eb.png",
+    "static/media/Gunjan.3ba7fc26.jpeg": "/TravelsIn-website/static/media/Gunjan.3ba7fc26.jpeg",
+    "static/media/Rohan.a83f16bf.jpeg": "/TravelsIn-website/static/media/Rohan.a83f16bf.jpeg",
+    "static/media/Shivam.40c67281.jpeg": "/TravelsIn-website/static/media/Shivam.40c67281.jpeg",
+    "static/media/avatarImage.cef71cc7.JPG": "/TravelsIn-website/static/media/avatarImage.cef71cc7.JPG",
+    "static/media/hero.b4f38a03.png": "/TravelsIn-website/static/media/hero.b4f38a03.png",
+    "static/media/logo.ec6c8215.png": "/TravelsIn-website/static/media/logo.ec6c8215.png",
+    "static/media/service2.abb2ba93.png": "/TravelsIn-website/static/media/service2.abb2ba93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc089cc6.js",
+    "static/js/2.a09a2631.chunk.js",
+    "static/css/main.ade80fe1.chunk.css",
+    "static/js/main.6f29814a.chunk.js"
+  ]
+}
